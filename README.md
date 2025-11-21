@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 
 ## 🛠️ training
-Then train the MReactor by running the following shell:
+The MReactor runs the following shell:
  ```shell
  python train.py \
      --logs-dir='MReactor-logs' \
