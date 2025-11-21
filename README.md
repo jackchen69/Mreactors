@@ -54,7 +54,9 @@ Install all remaining dependencies specified in requirements.txt:
 pip install -r requirements.txt
 ```
 
- - Then train the MReactor by running the following shell:
+
+## 🛠️ training
+Then train the MReactor by running the following shell:
  ```shell
  python train.py \
      --logs-dir='MReactor-logs' \
