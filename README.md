@@ -1,6 +1,6 @@
 # Mreactors
 
-We will provide additional run guides and more visualization cases in the future.
+We will provide details documents and more visualization cases in the future.
 #### Offline Appropriate Facial Reaction Generation
 This task aims to develop a deep learning model that takes the entire speaker behaviour sequence as the input, and generates multiple appropriate and realistic / naturalistic spatio-temporal facial reactions, consisting of AUs, facial expressions, valence and arousal state representing the predicted facial reaction. As a result,  facial reactions are required to be generated for the task given each input speaker behaviour. 
 
