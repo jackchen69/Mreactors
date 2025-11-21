@@ -53,3 +53,14 @@ Install all remaining dependencies specified in requirements.txt:
 ``` shell
 pip install -r requirements.txt
 ```
+
+
+ ```shell
+ python train.py \
+     --logs-dir='MReactor-logs' \
+     --batch-size=8 \
+     --layers=6 \
+     --norm \
+     --loss-hybrid \
+     --data-dir=../data
+ ```
